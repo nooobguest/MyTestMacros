@@ -32,6 +32,6 @@ VERIFY_EUQAL(0, var1 + 1);
 
 
 效果如图  
-![test](test.png)  
+![test](test.PNG)  
     
 其他几个宏也是类似用法
