@@ -1,7 +1,5 @@
 ﻿#include "pch.h"
 
-#define _AFXDLL
-#define MFC
 #include "MyTestMacros.h"
 int main()
 {
